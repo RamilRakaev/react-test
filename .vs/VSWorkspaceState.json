@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\UI\\Loader",
+    "\\src\\components\\UI\\MyModal",
+    "\\src\\components\\UI\\Navbar",
+    "\\src\\hooks",
+    "\\src\\pages",
+    "\\src\\styles",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\src\\components",
+  "PreviewInSolutionExplorer": false
+}
